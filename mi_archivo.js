@@ -1,2 +1,2 @@
 alert("Sincronizar repositorios");
-console.log("cambios stash sourcetree");
+console.log("Cambios Stash Sourcetree Github");
