@@ -1,2 +1,2 @@
 alert("Sincronizar repositorios");
-console.log("Stash Sourcetree Github");
+console.log("Reserva STASH Sourcetree Github");
