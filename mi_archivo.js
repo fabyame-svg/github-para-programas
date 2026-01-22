@@ -1,2 +1,2 @@
-alert("Hola Mundo,Editado2");
 alert("Sincronizar repositorios");
+console.log("cambios stash sourcetree");
